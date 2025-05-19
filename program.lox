@@ -1,0 +1,7 @@
+// Example lox program
+var myvariable = 4;
+while (myvariable > 0) {
+    print myvariable;
+    myvariable--;
+}
+print "Done!";
